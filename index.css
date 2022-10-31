@@ -53,4 +53,5 @@ button {
     color: #9aabd8;
     font-family: scoreboardFont, sans-serif;
     font-size: 18px;
+    cursor: pointer;
 }
